@@ -1,0 +1,5 @@
+{
+  "name": "Godot Fix",
+  "id": "fix-godot",
+  "script": "script.js"
+}
